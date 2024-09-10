@@ -2,6 +2,7 @@
 
 A new Flutter project.
 
+![weather ui](https://github.com/user-attachments/assets/d1c99122-5651-4d3a-b5ac-70eea490fef6)
 
 ## Getting Started
 
@@ -15,3 +16,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
